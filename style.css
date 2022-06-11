@@ -1,5 +1,14 @@
 div {
     text-align: center;
-    text-align: justify;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 300px;
+    margin: auto
+}
+.top-level {
     border: 2px solid black;
+    margin-top: 25vh;  
+}
+a {
+    color: blue;
 }
